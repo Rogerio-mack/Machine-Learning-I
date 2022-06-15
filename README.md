@@ -10,7 +10,7 @@
 
 <br>
 
-[**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML0_Apresentacao.ipynb)  
+[**Apresentação do Curso**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML0_Apresentacao.ipynb)  
 
 1. [**Introdução ao Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
