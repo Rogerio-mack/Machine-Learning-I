@@ -113,13 +113,13 @@
 | Aula   | Atividade                                                       |Nota    |
 |--------|-----------------------------------------------------------------|--------|
 | 1.     | Exercícios Moodle                                               |  1.0   | 
-| 2.     | Exercícios Moodle                                               |  1.0   | 
-| 3.     | Exercícios Moodle                                               |  1.0   | 
-| 4.     | Exercícios Moodle + Fórum Regressão Linear X Logística para Classificação                               |  1.5   | 
-| 5.     | Exercícios Moodle + Fórum Outros critérios de Seleção de Atributos                                      |  1.5   | 
-| 6.     | Exercícios Moodle                                               |  1.0   | 
-| 7.     | Projeto de Aprendizado de Máquina em Grupo                      |  2.0   | 
-| 8.     | Exercícios Moodle                                               |  1.0   | 
+| 2.     | Exercícios Moodle & Lab                                               |  1.0   | 
+| 3.     | Exercícios Moodle & Lab                                              |  1.0   | 
+| 4.     | Exercícios Moodle & Lab + Fórum Regressão Linear X Logística para Classificação                               |  1.5   | 
+| 5.     | Exercícios Moodle & Lab + Fórum Outros critérios de Seleção de Atributos                                      |  1.5   | 
+| 6.     | Exercícios Moodle & Lab                                              |  1.0   | 
+| 7.     | **Projeto de Aprendizado de Máquina em Grupo**                     |  **2.0**   | 
+| 8.     | Exercícios Moodle & Lab                                              |  1.0   | 
 |      | **Total do Curso**                                           |  **10.0**   | 
 
   
