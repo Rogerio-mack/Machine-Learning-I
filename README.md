@@ -6,6 +6,10 @@
 
 # Aprendizado-de-Maquina-I
 
+<br>
+
+<br>
+
 [**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML0_Apresentacao.ipynb)  
 
 1. [**Introdução ao Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
@@ -15,8 +19,6 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao_ex.ipynb)
-
 2. [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 >> [Ponto de Partida Vídeo]() |
@@ -24,7 +26,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb)
+>> [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb)
 
 3. [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 
@@ -33,7 +35,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->>  [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb)
+>>  [Lab Caso: **Consumo de combustível em veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb)
 
 4. [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
@@ -42,7 +44,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb)
+>> [Lab Caso: **Predição de Diagnósticos a partir de Dados de Imagens**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb)
 
 5. [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
@@ -51,7 +53,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
+>> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
 
 6. [**Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
 
@@ -60,7 +62,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb)
+>> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb)
 
 7. [**Seleção de Modelos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_SelecaoDeModelos.ipynb)
 
@@ -69,7 +71,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Projeto em Grupo](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_ex_Projeto.ipynb)
+>> [**Projeto em Grupo**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_ex_Projeto.ipynb)
 
 8. [**Aprendizado Supervisionado com R**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R.ipynb)
 
@@ -78,20 +80,30 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [Exercícios Lab](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb)
-<br>
+>> [Lab Caso: **Controle de Qualidade de Peças**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb)
 
 <br>
+
 <br>
 
-# Cases
+# Cases e Funções
 
-Aqui a relação de Cases estudados em cada Trilha.
-
-| Aula   | Casos Práticos                                                          | Principais Algoritmos          |
+| Aula   | Casos Práticos                                                          | Principais Funções         |
 |--------|-------------------------------------------------------------------------|--------------------------------|
 | 1.     | -                                                                       | -                              |
-
+| 2.     | CASO: Estimando o Preço de Veículos                                     | `statsmodel`, `sm.ols`  |
+| 3.     | CASO: Estimando Tumores Malignos ou Benignos                            | `sklearn` , `LogisticRegression`  |
+|        | CASO: 10 year risk of coronary heart disease CHD                        | `train_test_split`    |
+| 4.     | CASO: 10 year risk of coronary heart disease CHD                        | `KNeighborsClassifier`,`sklearn.preprocessing`, `minmax_scale` |
+| 5.     | CASO: Classifying Political Parties Based on Congressional Votes        | `DecisionTreeClassifier`,  `sklearn.feature_selection`, `mutual_info_classif`, `SelectKBest`, `StandardScaler`, `LabelEncoder`  |
+| 6.     | CASO: Breast Cancer biopsy        | `KFold`, `LabelEncoder`, `GridSearchCV`, `RandomForestClassifier`, `OneHotEncoder`|
+| 7.     | CASO: Classificando Imagens de Dígitos ( 8×8 )       | `MLPClassifier`, `SVC`, `GridSearchCV`  |
+|        | CASO: Classificando o MNIST (28×28)       | `DecisionTreeRegressor`, `SVR`, `XGBRegressor`   |
+|        | CASO: Um Conjunto não Linear, Potencial de Ação de um Neurônio       |    |
+|        | CASO: Bike Sharing Prediction      |   |
+| 8.     | CASO: Iris Data Set       | `lm`, `Caret`, `rpart`  |
+|        | CASO: Biopsy, Câncer de Mama       | `naivebayes`, `glm`, `knn`   |
+|        | CASO: Classificando o MNIST (28×28)       |   |
 <br>
 
 <br> 
