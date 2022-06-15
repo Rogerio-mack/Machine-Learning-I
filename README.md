@@ -108,6 +108,26 @@
 
 <br> 
 
+# Atividades
+
+| Aula   | Atividade                                                       |Nota    |
+|--------|-----------------------------------------------------------------|--------|
+| 1.     | Exercícios Moodle                                               |  1.0   | 
+| 2.     | Exercícios Moodle                                               |  1.0   | 
+| 3.     | Exercícios Moodle                                               |  1.0   | 
+| 4.     | Exercícios Moodle + Fórum Regressão Linear X Logística para Classificação                               |  1.5   | 
+| 5.     | Exercícios Moodle + Fórum Outros critérios de Seleção de Atributos                                      |  1.5   | 
+| 6.     | Exercícios Moodle                                               |  1.0   | 
+| 7.     | Projeto de Aprendizado de Máquina em Grupo                      |  2.0   | 
+| 8.     | Exercícios Moodle                                               |  1.0   | 
+|      | **Total do Curso**                                           |  **10.0**   | 
+
+  
+
+<br>
+
+<br> 
+
 # Principais Referências 
 
 Jake VanderPlas. **Python Data Science Handbook**  O'Reilly Media, Inc. (2016). ISBN: 9781491912058. Disponível em: https://jakevdp.github.io/PythonDataScienceHandbook/. Acesso: 06 de Novembro de 2021. 
