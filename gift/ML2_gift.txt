@@ -1,0 +1,93 @@
+$CATEGORY: $course$/ML2_gift
+
+Considere as seguintes afirmativas sobre modelos de Aprendizado Supervisionado\:
+\n i. O conjunto de Treinamento no Aprendizado Supervisionado é um conjunto em que cada amostra possuí um rótulo com
+um número discreto de valores
+\n ii. O Aprendizado ou Treinamento consiste basicamente no ajuste dos parâmetros de uma classe de modelos aos dados 
+\n iii. Os modelos de regressão tratam de estimar quantidades enquanto os modelos de classificação estimam categorias, ou 
+valores discretos, associados aos dados
+\n Estão corretas\:
+{
+= Somente ii 
+~ Somente i, ii
+~ Somente i, iii
+~ Somente ii, iii
+~ Somente i
+}
+
+Em uma regressão linear simples os coeficientes de um modelo de regressão linear dependem unicamente da covariância, 
+variância e média dos valores das variáveis dependente e independente. Podem, portanto, serem aplicados a qualquer
+conjuntos dados numéricos, independente de terem ou não uma relação linear entre eles. {T}
+
+Se coeficiente de determinação R2 for próximo de 1, certamente os valores da variável dependente tem como causa os 
+valores das variáveis independentes do modelo. {F}  
+
+Se coeficiente de determinação R2 for próximo de 0, isso indicará não haver qualquer relação entre a variável dependente 
+e as variáveis preditoras (independentes) do modelo. {F}
+
+Considere as seguintes afirmativas sobre os modelos de Regressão Linear\:
+\n i. Os modelos lineares não podem ser aplicados à transformações à variável dependente y, como Log(y), 
+pois neste caso não teremos um modelo linear 
+\n ii. Para um mesmo conjunto de dados (X,y) pode-se avaliar diferentes modelos de regressão linear
+empregando-se diferentes subconjuntos de X
+\n iii. Modelos de regressão linear com mais variáveis preditoras são sempre melhores modelos
+\n Estão corretas\:
+{
+= Somente ii 
+~ Somente i, ii
+~ Somente i, iii
+~ Somente ii, iii
+~ Somente i
+}
+
+Por padrão, os p-values dos coeficientes de uma regressão linear, para que sejam significativos devem ser\:
+{
+= Menores que 0.05
+~ Maiores que 0.05
+~ Menores que 0.01
+~ Próximos de 1
+~ Maiores que 0
+} 
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb
+Quais os coeficientes obtidos na regressão CO2EMISSIONS \= A + B × FUELCONSUMPTION_COMB?
+{
+= 68.38 e 16.22     
+~ 64.38 e 18.22 
+~ 63.38 e 17.22 
+~ 61.38 e 19.22  
+~ 60.38 e 21.22 
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb
+Qual a predição, a partir do modelo linear CO2EMISSIONS \= A + B × FUELCONSUMPTION_COMB
+para os valores FUELCONSUMPTION_COMB \= 4 e 28?
+{
+= 133.26 e 522.54    
+~ 143.26 e 512.54 
+~ 153.26 e 524.54 
+~ 183.26 e 542.54 
+~ 132.26 e 522.54 
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb
+Qual o R-Squared para o modelo linear CO2EMISSIONS \= A + B × FUELCONSUMPTION_COMB + C × ENGINESIZE? 
+{
+~ 0.764
+~ 0.799
+~ 0.754
+~ 0.734
+= 0.858
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb
+Qual a predição, a partir do modelo linear CO2EMISSIONS \= A + B × FUELCONSUMPTION_COMB + C × ENGINESIZE
+para um veículo com FUELCONSUMPTION_COMB \= 10 e ENGINESIZE \= 2?
+{
+= 214.59  
+~ 213.59 
+~ 211.59 
+~ 222.59 
+~ 200.59
+}
+

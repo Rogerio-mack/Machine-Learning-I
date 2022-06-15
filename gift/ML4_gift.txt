@@ -1,0 +1,107 @@
+$CATEGORY: $course$/ML4_gift
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb
+\n Qual o número de casos benignos e malignos na base de dados breast? 
+{
+= 322, 191
+~ 321, 192
+~ 320, 193
+~ 323 190
+~ 324, 189
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb
+\n Qual atributo não faz sentido fazer parte do treinamento? 
+{
+= id, é um identificador
+~ perimeter_mean, pois possui valores muito destoantes dos demais	
+~ area_mean, pois possui valores muito destoantes dos demais	
+~ diagnosis
+~ nenhum, como não há valores ausentes todos os atributos serão empregados
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb
+\n Qual a média dos valores de X_train após a normalização dos dados e a separação dos conjuntos de dados de teste? 
+\n (essa é uma questão importante de verificação, se você não encontrar o valor aqui você deve revisar o seu código)
+{
+= 0.2389
+~ 0.1389
+~ 0.5389
+~ 0.7389
+~ 0.9389
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb
+\n Qual modelo Knn apresentou maior acuracidade? 
+{
+= K\=11, 0.95
+~ K\=3, 0.94
+~ K\=11, 0.94
+~ K\=3, 0.95
+~ K\=11, 0.98
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb
+\n Qual valor no Classification Report corresponde à quantidade de acertos da classe Benignos no conjunto de teste?    
+{
+= 0.97
+~ 0.95
+~ 0.96
+~ 0.93
+~ 0.94
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb
+\n Qual o número de instâncias de new_breast foram classificadas como benigno e qual a classificação dos 4 primeiros casos? 
+{
+= 17, 'B' 'M' 'B' 'B'
+~ 21, 'B' 'M' 'B' 'B'
+~ 17, 'B' 'M' 'M' 'B'
+~ 18, 'B' 'M' 'M' 'B'
+~ 21, 'M' 'M' 'M' 'B'
+}
+
+Considere as seguintes afirmativas sobre o modelo k-vizinhos mais próximos.
+\n
+\ni. O modelo fornece o melhor valor de k para classificação 
+\nii. O modelo emprega uma função distância para classificação
+\niii. As variáveis preditoras precisam ser numéricas (ou transformadas para numéricas) mas a variável objetivo não necessariamente
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+~ Somente i
+= Somente ii, iii
+~ Somente i, iii
+~ Somente i, ii
+}
+
+Um modelo relacionado a saúde de bebês de um Laboratório de Exames cria uma classificação A, B ou C para os bebês. 
+O Seguinte conjunto de dados associa a idade em meses dos bebês e as classes obtidas\: 
+\n
+\n Idade em meses	\=(6,7,7,5,8,4,4,3,1,1) 
+\n Classe 		    \=(A,B,B,A,A,A,C,C,B,A) 
+\n
+Aplicando-se um modelo K-vizinhos mais próximos com K \= 3 e K \= 5, qual o valor estimado da classe para 
+um bebê com 7.2 meses?{ 
+= B e A respectivamente
+~ A e B respectivamente
+~ B nos dois casos
+~ A para K\=3 e indiferentemente A ou B para K\=5
+~ A nos dois casos
+}
+
+Considere as seguintes afirmativas sobre o modelo de k vizinhos mais próximos\: \n
+\n i. Quanto maior o valor de K melhor o resultado do modelo
+\n ii. A função distância d() é aplicada às variáveis de entrada (X) e à variável objetivo (y, ou classe),
+sendo os vizinhos mais próximos os pontos com menor distância d(X,y)
+\n iii. Por empregar a função distância o modelo Knn é sensível à normalização 
+\n Estão corretas\:
+{
+~ Todas corretas
+~ Somente i
+~ Somente i, ii
+= Somente iii
+~ Somente ii, iii
+}
+

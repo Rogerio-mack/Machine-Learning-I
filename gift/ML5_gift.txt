@@ -1,0 +1,113 @@
+$CATEGORY: $course$/ML5_gift
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n Qual o número de casos com propensão à compra? Existem valores nulos (ausentes) nos dados?  
+{
+= 5289, não
+~ 39922, sim
+~ 14567, não
+~ 8992, sim
+~ 5289, não
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n Quais métodos correspondem aos esquemas de normalização informados no enunciado? (se preferir pesquise)
+{
+= MinMaxScaler e StandardScaler
+~ StandardScaler e MinMaxScaler  
+~ MinMaxScaler e MaxAbsScaler
+~ MaxAbsScaler e MinMaxScaler
+~ Normalizer e StandardScaler
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n Qual a média dos valores de X_train.age após a normalização dos dados e a separação dos conjuntos de dados de teste? Qual o número de casos de teste? 
+\n (essa é uma questão importante de verificação, se você não encontrar o valor aqui você deve revisar o seu código)
+{
+= 0.0034, 13564
+~ 0.0134, 23564
+~ 0.0234, 33564
+~ 0.4034, 3564
+~ 0.5034, 51564
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n Qual modelo Knn apresentou maior acuracidade? 
+{
+= max_depth\=5, 0.8980
+~ max_depth\=None, 0.8980
+~ max_depth\=None, 0.8710
+~ max_depth\=None, 0.8754
+~ max_depth\=5, 0.8754
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n O resultado do modelo é o mesmo para as duas classes y e n? Isto é, conseguimos resultados mais ou menos próximos de classificação para quaisquer das classes?    
+{
+= Não, a classe y apresenta mais que o dodro de erro 
+~ Não, a classe x apresenta mais que o dodro de erro
+~ Sim, a acuracidade é de aproximadamente 0.90
+~ Sim, observamos valores diferentes apenas por haverem mais casos de uma classe que outra
+~ Nenhuma afirmativa correta 
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n Quantos casos foram classificados como 'y' nos novos casos?
+{
+= 2
+~ 21
+~ 17 
+~ 12
+~ 19
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb
+\n Quais os atributos que carregam mais informação para a determinação da classe y?
+{
+= month, duration, poutcome
+~ poutcome, month, duration
+~ balance, month, duration
+~ balance, month, poutcome
+~ balance, loan, poutcome
+} 
+
+A Entropia, no contexto de dados, pode ser entendida como\:
+{
+= Uma medida de quantidade de informação
+~ Uma medida de dispersão dos dados
+~ Uma medida de quanto um atributo dos dados é relevante para determinar um outro atributo
+~ Uma medida de correlação
+~ Uma medida de dependência entre duas variáveis
+}
+
+Considere a seguinte tabela de valores em que dados coletados (A,B e C) 
+parecem determinar o valor de uma variável objetivo T (classe). 
+\n 
+\n A | B | C | T 
+\n 1 | 0 | Y | 1 
+\n 0 | 1 | Y | 1 
+\n 1 | 1 | Y | 0  
+\n 1 | 0 | N | 1 
+\n
+Na construção de uma Árvore de Decisão, que atributos que levam imediatamente a ramos com nós terminais?{ 
+= A com valor 0, B com valor 0, e C com valor N   
+~ A com valor 0, B com valor 0 e 1, e C com valor N   
+~ A com valor 0, B com valor 0, e C com valor Y   
+~ A com valor 1, B com valor 0 e 1, e C com valor N   
+~ A com valor 1, B com valor 0, e C com valor Y   
+}
+
+Considere as seguintes afirmativas sobre o modelo de árvores de decisão.
+\n
+\ni. Quanto maior a profundidade da Árvore maior a acuracidade do modelo
+\nii. O modelo emprega uma função distância para a classificação
+\niii. As variáveis preditoras precisam ser numéricas (ou transformadas para numéricas) mas a variável objetivo não necessariamente
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+= Somente iii
+~ Somente ii, iii
+~ Somente i, iii
+~ Somente i, ii
+}

@@ -1,0 +1,86 @@
+$CATEGORY: $course$/ML6_gift
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb
+\n Quantos valores distintos há nos atributos df['Type of glass'] e df['Mg']?
+{
+= 5 e 4
+~ 4 e 5
+~ 5 e 3 
+~ 7 e 4 
+~ 7 e 3
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb
+\n Qual atributo ou atributos requerem hot encode dos seus valores? 
+{
+= 'Mg'
+~ 'Type of glass'
+~ 'Id number'
+~ 'Type of glass' e 'Mg'
+~ 'Id number' e 'Mg'
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb
+\n Após todas as preparações dos dados quais os valores encontrados na primeira ocorrência do vetor X[0] e seu tamanho?  
+\n (essa é uma questão importante de verificação, se você não encontrar o valor aqui você deve revisar o seu código)
+{
+= 0.86032995 e 12
+~ 5.6 e 22
+~ 28 e 2
+~ 0.988 e 9
+~ -1.3 e 82
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb
+\n Quais os melhores hiperparâmetros encontrados?
+{
+= criterion='entropy', max_depth=7
+~ criterion='entropy', max_depth=9
+~ criterion='gini', max_depth=5
+~ criterion='log_loss', max_depth=12
+~ criterion='gini', max_depth=3
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb
+\n Qual a acuracidade e a pior classe avaliada com esse melhor modelo? 
+{
+= 0.90 e V
+~ 0.90 e C
+~ 0.90 e O
+~ 0.33 e V
+~ 0.87 e O
+}
+
+Durante o treinamento dos modelos qual dos conjuntos é idealmente empregado fornecer o ajuste dos hiperparâmetros do modelo e para  
+a medida final da eficiência do modelo?
+{
+= Validação e Teste
+~ Teste e Validação
+~ Treinamento e Teste
+~ Treinamento e Validação
+~ Ambos o conjunto de Teste
+} 
+
+A Validação Cruzada garante que cada instancia dos dados será empregada ao menos uma vez como teste {T}
+
+Na Validação Cruzada o resultado de eficiência do modelo (seu score) será o valor máximo da eficiência obtida em cada partição {T}
+
+São exemplos de hiperparâmetros de um modelo Supervisionado\:
+\n i. O número de vizinhos em um modelo de K-vizinhos mais próximos
+\n ii. A profundidade de uma Árvore de Decisão e o critério de seleção dos nós raiz (entropia, gini etc.)
+\n iii. A quantidade de partições e número de repetições de uma Validação Cruzada  
+\n Estão corretas\:
+{
+= Somente i., ii.
+~ Todas alternativas
+~ Somente i. 
+~ Somente i., iii.
+~ Somente ii., iii.
+} 
+
+Em uma Floresta Aleatória (Random Forest) cada Árvore da Floresta processa uma partição das instâncias dos dados diferente {F}
+
+
+
+
+

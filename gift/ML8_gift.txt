@@ -1,0 +1,95 @@
+$CATEGORY: $course$/ML8_gift
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Quantos valores ausentes (NA) foram encontrados nos dados?
+{
+= 19
+~ 29
+~ 9
+~ 49
+~ 69
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Vamos verificar os resultados de Preparação dos Dados? Assinale a alternativa que contem respectivamente os valores de
+número de linhas do dataframe tratado (excluídos os NA) e número de colunas (com Hot Encode e exclusão do id)\:
+{
+= 481, 9 
+~ 1000, 10 
+~ 999, 99 
+~ 1, 2 
+~ 681, 8
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Vamos verificar os resultados de Preparação dos Dados? Assinale a alternativa que contem respectivamente os valores de
+número de peças Accept e o número de Unidades de São Paulo a partir do hotencode\:
+{
+= 149, 223
+~ 100, 10
+~ 99, 9
+~ 3, 4
+~ 249, 123
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Quais classes de qualidade não teveram nenhum erro de classificação? 
+{
+= Reject
+~ Refurbish 
+~ Accept
+~ Accept e Refurbish 
+~ Accept e Reject
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Qual a acuracidade do modelo de Árvore de Decisão obtida?
+{
+= 0.9513
+~ 0.7513
+~ 0.8513
+~ 0.9583
+~ 0.8583
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Qual a acuracidade do modelo Naive Bayes obtida?
+{
+~ 0.9513
+~ 0.7513
+~ 0.8513
+= 0.9583
+~ 0.8583
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Qual o modelo de melhor resultado de acuracidade?
+{
+= Naive Bayes
+~ Árvore de Decisão 
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+\n Na predição dos novos casos empregando o modelo de maior acuracidade as classes obtidas foram\:
+{
+= Refurbish Refurbish Reject Accept Reject  
+~ Refurbish Reject Accept Reject Refurbish  
+~ Reject Accept Reject Refurbish Refurbish  
+~ Accept Reject Refurbish Refurbish Reject  
+~ Reject Refurbish Refurbish Reject Accept  
+} 
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb
+e talvez você queira pesquisar sobre o modelo SVM.
+\n Modelos de SVM (Support Linear Regression) e Regressão Logística são separadores lineares e, portanto, não podemos aplicar esses modelos 
+(seja em R ou em Python) diretamente no nosso problema de classificação de peças por que\:
+{
+= Existe mais de dois valores da classe objetivo
+~ Existem atributos preditivos não numéricos
+~ O atributo classe precisa ser numéricos
+~ Esses modelos empregam distância e os dados precisam ser normalizados
+~ Esses são modelos de regressão e não classificação
+} 
+
+É uma grande limitação o R não possuir bibliotecas com funcionalidades como o Cross Validation e a separação de dados de treinamento e teste {F}
+

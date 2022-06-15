@@ -1,0 +1,104 @@
+$CATEGORY: $course$/ML3_gift
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb
+\n Qual atributo apresenta valores ausentes e quantas linhas foram excluídas dos dados?
+{
+= horsepower, 6
+~ horsepower, 9
+~ mpg, 6
+~ mpg, 9
+~ mpg, 12
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb
+\n Quantos veículos usa e non-usa foram obtidos?
+{
+= 245, 147
+~ 244, 148
+~ 243, 149
+~ 242, 150
+~ 241, 151
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb
+\n Qual a acuracidade (score) obtido pelo primeiro modelo com entradas (mpg e cylinders) sobre o conjunto de teste?
+{
+= 0.805
+~ 0.85
+~ 0.905
+~ 0.95
+~ 0.59
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb
+\n Qual o resultado da classificação do modelo para carros com valorses mínimos e máximos de mpg e cylinders?
+{
+= 'non-usa', 'usa'
+~ 'non-usa', 'non-usa'
+~ 'usa', 'usa'
+~ 'usa', 'non-usa'
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb
+\n Qual atributo não é um preditor e precisa, em conjunto com a variável dependente, ser excluída das entradas do treinamento? 
+{
+= name, pois é um identificador único
+~ model-year, pois é uma data
+~ cylinders, pois já foi usado no modelo anterior
+~ displacement, pois não é significativo
+~ acceleration, pois contém outliers
+}
+
+Para responder esta pergunta acesse https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb
+\n Qual a acuracidade (score) obtido pelo segundo modelo com todas entradas válidas sobre o conjunto de teste?
+{
+= 0.881
+~ 0.781
+~ 0.681
+~ 0.981
+~ 0.581
+}
+
+Os modelos de regressão logistica, \n
+\n i. Podem considerar qualquer número de variáveis independentes  
+\n ii. Podem considerar qualquer número de variáveis dependentes  
+\n iii. Podem ser utilizados para determinação de classes 
+\n Quais afirmações estão corretas? 
+{
+= Somente i., iii 
+~ Somente i.
+~ Somente ii., iii.
+~ Somente ii. 
+~ Todas estão corretas.
+}
+
+Os modelos de regressão logistica, \n
+\n i. Consideram sempre a variável dependente como sendo discreta  
+\n ii. Podem considerar variáveis independentes não numéricas  
+\n iii. Consideram sempre a variável independente como sendo dicotômica, isto é, assume somente um valor ou outro
+\n Quais afirmações estão corretas? 
+{
+= Somente i., iii.
+~ Somente i.
+~ Somente ii., iii.
+~ Todas estão erradas. 
+~ Todas estão corretas.
+}
+
+Aqui, se necessário, pesquise. O Erro do Tipo-1 em tarefas de Classificação pode ser definido como\:
+{
+= considerar uma afirmação falsa como sendo verdadeira
+~ utilizar um número muito elevado de dados para construir o modelo
+~ não considerar todos os dados do modelo
+~ utilizar um modelo cujas variáveis não tem relação com o que se deseja explicar 
+~ utilizar um número muito baixo de dados para construir o modelo
+}
+
+Aqui, se necessário, pesquise. O cálculo da Eficiência de um modelo de Classificação (acuracidade) pode, dentre outros, ser medido como\:
+{
+= dividindo o número de acertos pelo número total de dados
+~ dividindo o número de acertos pelo número de erros tipo-1
+~ dividindo o número de acertos pelo número de erros tipo-2
+~ dividindo o número de acertos pelo número de erros tipo-3
+~ dividindo o número de acertos pela soma dos erros
+}

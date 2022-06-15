@@ -1,0 +1,80 @@
+$CATEGORY: $course$/ML1_gift
+
+Considere as seguintes fases do processo de Ciência de Dados (CRISP-DM)\:
+\n 1. Modelagem
+\n 2. Preparação dos Dados
+\n 3. Entendimento dos Dados
+\n 4. Avaliação
+\n 5. Distribuição
+\n 6. Entendimento do Negócio
+\n A ordem correta dessas fases é dada por\:
+{
+= 6,3,2,1,4,5
+~ 6,4,2,3,1,5
+~ 6,4,3,2,1,5
+~ 6,1,3,2,4,5
+~ 1,6,3,2,5,4
+}
+
+Associe corretamente as tarefas e a fase do processo de Ciência de Dados (CRISP-DM) mais comumente associada\:
+{
+= Seleção de Data Cleaning -> Preparação dos Dados
+= Verificar a Qualidade dos Dados -> Entendimento dos Dados
+= Selecionar o Modelo a ser empregado -> Modelagem
+}
+
+Associe corretamente os modelos de Aprendizado\:
+{
+= Aprendizado Não Supervisionado -> Descritivo
+= Aprendizado Supervisionado -> Preditivo
+= Aprendizado de Reforço -> Prescritivo
+}
+
+Associe corretamente as tarefas e o modelo de Aprendizado mais comumente associado\:
+{
+= Clusterização (agrupamentos) -> Aprendizado Não Supervisionado 
+= Classificação -> Aprendizado Supervisionado 
+= Jogos com Interação -> Aprendizado de Reforço 
+}
+
+Na prática, 80% do esforço de se criar modelos de Aprendizado de Máquina nas empresas 
+envolve atividades preliminares de Análise, Exploração e Preparação dos Dados. {T}
+
+O Aprendizado de Máquina envolve a busca de um padrão nos dados trazendo um novo paradigma de programação.
+\n Considere as seguintes potenciais aplicações do Aprendizado de Máquina\:
+\n i) Determinar através de uma vasta coleta de dados de órbitas  de satélites o local de queda de um satélite no final de sua vida útil
+\n ii) Determinar por inspecção visual chapas de aço tratadas com baixa qualidade para rejeito com base em dados históricos 
+\n iii) Identificar o perfil de desistência de alunos matriculados em cursos de graduação para planejar ações de redução de evasão
+\n
+São aplicações mais corretas do Aprendizado de Máquina\:
+{
+~ Todas
+~ Somente i
+~ Somente i, ii
+= Somente ii, iii
+~ Somente ii
+#### Órbitas de satélites seguem modelos físicos conhecidos, eles serão melhores que modelos obtidos por dados
+}
+
+Os Rótulos dos dados em um conjunto de treinamento não podem ser valores numéricos, eles devem ser categorias como
+Benigno/Maligno ou Spam/NotSpam. {F}
+
+A Classificação nos modelos de Aprendizado Supervisionado só permitem a classificação de valores binários como 
+Benigno/Maligno, True/False, 0/1 ou Spam/NotSpam. {F}
+
+Considere as seguintes afirmativas sobre os modelos de Aprendizado Máquina Supervisionados\:
+\n i. Requerem um conjunto de dados de treinamento, isto é, um conjunto de exemplos com dados rotulados
+\n ii. São modelos que empregamos para inferência de novos casos
+\n iii. Podem ser divididos em modelos de Classificação ou Regressão, conforme os dados que desejamos prever sejam
+valores contínuos ou discretos
+\n Estão corretas\:
+{
+= Somente ii 
+~ Somente i, ii
+~ Somente i, iii
+~ Somente ii, iii
+~ Somente i
+}
+
+O Aprendizado de Máquina é uma subárea da IA e ambos são cobertos completamente por um campo maior que é a Ciência de Dados {F}. 
+
