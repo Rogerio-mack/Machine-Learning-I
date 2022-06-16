@@ -71,7 +71,7 @@
 [Professor Resolve]() |
 [Notebook]()
 
->> [**Projeto em Grupo**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_ex_Projeto.ipynb)
+>> [**Projeto em Grupo**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_ex_projeto.ipynb)
 
 8. [**Aprendizado Supervisionado com R**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R.ipynb)
 
