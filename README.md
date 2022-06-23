@@ -8,7 +8,7 @@
 
 # [Aprendizado de Máquina I](https://github.com/Rogerio-mack/Machine-Learning-I)
 
-Oliveira, R. (2020). **Aprendizado de Máquina I**. (pp. 1–226). eBook. https://doi.org/10.5281/zenodo.6702272. 
+Oliveira, R. (2020). **Aprendizado de Máquina I**. (pp. 1–228). eBook. https://doi.org/10.5281/zenodo.6702272. 
 
 *Para acesso ao conteúdo clique nos Capítulos, no Título, ou acesse* [aqui](https://github.com/Rogerio-mack/Machine-Learning-I).
 
