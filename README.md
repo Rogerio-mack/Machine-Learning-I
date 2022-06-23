@@ -1,12 +1,18 @@
+
+
 <a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
 
 <br>
 
 <br>
 
-# Aprendizado-de-Maquina-I
+# [Aprendizado de Máquina I](https://github.com/Rogerio-mack/Machine-Learning-I)
 
-<br>
+Oliveira, R. (2020). **Aprendizado de Máquina I**. (pp. 1–226). eBook. https://doi.org/10.5281/zenodo.6675400. 
+
+*Para acesso ao conteúdo clique nos Capítulos, no Título, ou acesse* [aqui](https://github.com/Rogerio-mack/Machine-Learning-I).
+
+<br> 
 
 <br>
 
@@ -14,73 +20,42 @@
 
 1. [**Introdução ao Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
 
 2. [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
-
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
 
 >> [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb)
 
 3. [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
-
 >>  [Lab Caso: **Consumo de combustível em veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb)
 
 4. [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
-
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
 
 >> [Lab Caso: **Predição de Diagnósticos a partir de Dados de Imagens**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb)
 
 5. [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
-
 >> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
 
 6. [**Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
-
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
 
 >> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb)
 
 7. [**Seleção de Modelos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_SelecaoDeModelos.ipynb)
 
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
-
 >> [**Projeto em Grupo**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_ex_projeto.ipynb)
 
 8. [**Aprendizado Supervisionado com R**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R.ipynb)
 
->> [Ponto de Partida Vídeo]() |
-[Notebook]() |
-[Professor Resolve]() |
-[Notebook]()
-
 >> [Lab Caso: **Controle de Qualidade de Peças**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML8_R_ex.ipynb)
+
+<br>
+
+<br>
+
+# Vídeos e Complementos
+
+*Acesse* [aqui](https://github.com/Rogerio-mack/Machine-Learning-I/tree/main/videos).
 
 <br>
 
