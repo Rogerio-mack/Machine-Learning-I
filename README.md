@@ -55,7 +55,7 @@ Oliveira, R. (2022). **Aprendizado de Máquina I**. (pp. 1–227). eBook. https:
 
 # Vídeos e Complementos
 
-*Acesse* [aqui](https://github.com/Rogerio-mack/Machine-Learning-I/tree/main/videos).
+*Acesse* [aqui](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML0_videos.ipynb).
 
 <br>
 
