@@ -27,7 +27,7 @@ Oliveira, R. (2022). **Aprendizado de Máquina I**. (pp. 1–227). eBook. https:
 
 3. [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 
->>  [Lab Caso: **Consumo de combustível em veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb)
+>>  [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb)
 
 4. [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
